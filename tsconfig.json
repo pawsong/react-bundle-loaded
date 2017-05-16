@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "outDir": "lib",
+    "lib": ["dom", "es2015.promise", "es5"],
+    "noImplicitAny": false,
+    "noUnusedLocals": true,
+    "noUnusedParameters": false,
+    "declaration": true,
+    "sourceMap": true
+  }
+}
